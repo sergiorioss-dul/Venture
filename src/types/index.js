@@ -1,0 +1,24 @@
+export const GET_ID = 'GET_ID';
+export const LIST_USER = 'LIST_USER';
+export const ADD_PAGE = 'ADD_PAGE';
+export const REST_PAGE = 'REST_PAGE';
+export const ACTIVE_POST = 'ACTIVE_POST';
+
+export const POSTS = 'POSTS';
+export const RETURN_PANEL = 'RETURN_PANEL';
+export const DELETE_POST = 'DELETE_POST';
+export const GET_SECPAGE = 'GET_SECPAGE';
+export const ALBUM_ACTIVE = 'ALBUM_ACTIVE';
+export const BUTTON_BACK = 'BUTTON_BACK';
+export const ID_GALLERY = 'ID_GALLERY';
+export const SAVE_PHOTOS = 'SAVE_PHOTOS';
+export const STATE_PHOTOS = 'STATE_PHOTOS';
+export const GALERY_ACTIVE = 'ACTIVE_GALERY';
+export const CANCEL_EDIT = 'CANCEL_EDIT';
+export const EDIT_USER = 'EDIT_USER';
+export const FULL_USERS = 'FULL_USERS';
+export const SPINNER_LOADING = 'SPINNER_LOADING';
+export const SPINNER_GALERY = 'SPINNER_GALERY';
+export const TOKEN = 'TOKEN';
+export const TOKEN_STATE='TOKEN_STATE';
+export const SPINNER_EDIT = 'SPINNER_EDIT';

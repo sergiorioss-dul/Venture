@@ -1,0 +1,8 @@
+(buttonAlbum=== false && buttonBack===true)?
+                                    <Link to={'/panel-users/'}>
+                                    <button
+                                        type="button"
+                                        className="btn btn-block btn-primario"
+                                        onClick={()=>buttonGoPanelFn()}
+                                    >Return Panel User</button>
+                                    </Link>
